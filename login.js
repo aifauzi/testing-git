@@ -11,9 +11,7 @@
 
     <h1>Selamat Datang di Latihan GIT</h1>
     
-    <div>Ini adalah halaman contact dan maps</div>
-    
-    <form action=""></form>
+    <div>Ini adalah halaman login</div>
     
     <footer>Disini adalah footer</footer>
 
